@@ -221,7 +221,8 @@ body {
   font-weight: bold;
   line-height: 17px;
   display: inline-block;
-  width: 214px;
+  width: auto;
+  white-space: nowrap;
   padding: 13px 23px 14px 59px;
   border: 1px solid #FFFFFF;
   border-radius: 2px;
